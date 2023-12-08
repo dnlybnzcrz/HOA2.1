@@ -1,1 +1,1 @@
-# HOA2.1
+# SSH Key-Based Authentication and GIT Setup
